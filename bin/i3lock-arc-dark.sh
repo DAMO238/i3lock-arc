@@ -19,22 +19,22 @@
 
 
 alpha='dd'
-base03='#002b36'
-base02='#073642'
-base01='#586e75'
-base00='#657b83'
-base0='#839496'
-base1='#93a1a1'
-base2='#eee8d5'
-base3='#fdf6e3'
-yellow='#b58900'
-orange='#cb4b16'
-red='#dc322f'
-magenta='#d33682'
-violet='#6c71c4'
-blue='#268bd2'
-cyan='#2aa198'
-green='#859900'
+base03='#383c4a'
+base02='#404552'
+base01='#d3dae3'
+base00='#4b5162'
+base0='#5294e2'
+base1='#3e4350'
+base2='#404552'
+base3='#353945'
+yellow='#c88752'
+orange='#c89b79'
+red='#ac6868'
+magenta='#a152c8'
+violet='#b079c8'
+blue='#79a8c8'
+cyan='#52c8ad'
+green='#7fd17f'
 
 i3lock \
   --insidevercolor=$base02$alpha \
@@ -75,3 +75,4 @@ i3lock \
   --pass-media-keys \
   --pass-screen-keys \
   --pass-volume-keys \
+  --nofork \
