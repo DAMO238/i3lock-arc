@@ -2,6 +2,8 @@
 
 **Arc Dark theme for [i3lock-color](https://github.com/Raymo111/i3lock-color)**.
 
+![](https://raw.githubusercontent.com/DAMO238/i3lock-arc/master/demo-arc-dark.gif)
+
 ## Dependencies
 
 The only dependency is [i3lock-color](https://github.com/Raymo111/i3lock-color), a simple screen locker with color functionality.
